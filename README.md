@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @L0ckPick
-- 👀 I’m interested in python, cyber security, ethical hacking.
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hey, Im L0ckPick. I work on projects involved woth python, html, and php. I also dig ethical hacking, video game modding, and cyber security. Im now working on vodeo games and ethical hacking.
